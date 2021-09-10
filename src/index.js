@@ -1,8 +1,11 @@
-import ReactDOM from "react-dom";
 import React from "react";
-
-const App = () => {
-  return <h1>Spotify Roadtrip App</h1>
-};
-
-ReactDOM.render(<App />, document.getElementById("app"));
+import ReactDOM from "react-dom";
+import './index.css'
+import App from "./App";
+ 
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
