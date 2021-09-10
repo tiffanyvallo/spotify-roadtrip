@@ -1,7 +1,7 @@
 # Spotify Roadtrip
 
 
-A react app that allows users to create playlists to accompany them on a roadtrip based on artists from the places they pass through. 
+A react app that allows users to create custom playlists to accompany them on a roadtrip based on artists from the places they pass through. 
 
 
 ---------------------
