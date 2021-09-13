@@ -5,7 +5,10 @@ A react app that allows users to create custom playlists to accompany them on a 
 
 
 ---------------------
-
+## Set Up
+1. Clone repo
+2. Create .env file
+3. Retrieve Client ID and Client Secret from Spotify for Developers. Add to .env file (as laid out in .env.example file).
 ## Planning
 ### Notes
 - *MVP* - you can type in location and select the artists from that location and manually add their songs to a playlist

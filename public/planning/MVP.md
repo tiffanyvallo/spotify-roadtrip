@@ -9,3 +9,9 @@ Can it create a playlist to store spotify tracks?
 
 
 Can it search spotify by location?
+
+
+API Endpoints: 
+  1. List of Places/Geographical Location
+  2. List of Artists
+  3. List of Tracks
